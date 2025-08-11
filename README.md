@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Science and Cloud Computing engineering student at ENSAO, with experience in data analysis, Business Intelligence (BI), and cloud solutions. I have worked on various projects, ranging from building recommendation systems to data visualization and creating BI dashboards. Passionate about AI and machine learning, I am eager to tackle complex challenges using innovative approaches to transform data into concrete and strategic solutions.
+I am a Data Science and Cloud Computing engineering, with experience in data analysis, Business Intelligence (BI), and cloud solutions. I have worked on various projects, ranging from building recommendation systems to data visualization and creating BI dashboards. Passionate about AI and machine learning, I am eager to tackle complex challenges using innovative approaches to transform data into concrete and strategic solutions.
 
 
 ## 🌐 Socials:
